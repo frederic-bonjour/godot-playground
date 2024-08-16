@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://du47yob44hcvl"]
 
-[ext_resource type="Script" path="res://reactivity_test.gd" id="1_ya7lt"]
+[ext_resource type="Script" path="res://reactivity/reactivity_test.gd" id="1_ya7lt"]
 
 [node name="ReactivityTest" type="Control"]
 layout_mode = 3
